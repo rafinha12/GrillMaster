@@ -1,0 +1,9 @@
+C:\Users\rafa_\source\repos\GrillMaster\ConnectionManager\bin\Debug\netcoreapp3.1\ConnectionManager.deps.json
+C:\Users\rafa_\source\repos\GrillMaster\ConnectionManager\bin\Debug\netcoreapp3.1\ConnectionManager.dll
+C:\Users\rafa_\source\repos\GrillMaster\ConnectionManager\bin\Debug\netcoreapp3.1\ConnectionManager.pdb
+C:\Users\rafa_\source\repos\GrillMaster\ConnectionManager\obj\Debug\netcoreapp3.1\ConnectionManager.csprojAssemblyReference.cache
+C:\Users\rafa_\source\repos\GrillMaster\ConnectionManager\obj\Debug\netcoreapp3.1\ConnectionManager.AssemblyInfoInputs.cache
+C:\Users\rafa_\source\repos\GrillMaster\ConnectionManager\obj\Debug\netcoreapp3.1\ConnectionManager.AssemblyInfo.cs
+C:\Users\rafa_\source\repos\GrillMaster\ConnectionManager\obj\Debug\netcoreapp3.1\ConnectionManager.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\source\repos\GrillMaster\ConnectionManager\obj\Debug\netcoreapp3.1\ConnectionManager.dll
+C:\Users\rafa_\source\repos\GrillMaster\ConnectionManager\obj\Debug\netcoreapp3.1\ConnectionManager.pdb
