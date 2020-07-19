@@ -3,7 +3,6 @@ This project contains a netcore project that helps a barbecue chef  to optimize 
 
 #Background
 Since the space on the grill is limited and different grill items have different sizes, the program calculates the optimal schedule for grilling. The aim is to optimize the time for barbecuing the entire menu. The grill measures 20cm x 30cm. The cooking time is the same for all barbecue items.
-The project consists of a console login application that register the logs using the LogginFramework also included in the project.
 
 A REST API provides different grill menus. The service returns a list of different pieces of meat with the required space. The solution calculates the order in which the food is placed on the grill and at the same time optimizes the duration of the entire meal. The console displays how many rounds are needed to grill the entire menu.
 
